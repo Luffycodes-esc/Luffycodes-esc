@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Mohith Naru]!(https://linktr.ee/mohithnaru)
+# 👋 Hi, I'm [Mohith Naru](https://linktr.ee/mohithnaru)
 
 Welcome to my GitHub profile! I'm a Student passionate about building web apps, machine learning, open-source contributions.
 
