@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a Student passionate about building web apps, 
 - **[Project Name](link-to-repo)**: [Brief description, e.g., A machine learning model to predict stock prices using Python.]
 
 ## 📬 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [LinkedIn](https://in.linkedin.com/in/mohith-naru-715ab2314)
 - [Twitter](https://twitter.com/yourusername)
 - [Portfolio/Blog](https://yourwebsite.com)
 
